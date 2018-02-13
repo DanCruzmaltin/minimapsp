@@ -1,3 +1,3 @@
 # minimapsp
 
-é um bot porra só isso
+aqui que fica as template e as parada toda
