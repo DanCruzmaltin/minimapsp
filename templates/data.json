@@ -1,0 +1,16 @@
+{
+  "Logospfc": {
+    "name": "spfcLogo.png",
+    "x": 4184,
+    "y": -502,
+    "width": 386,
+    "height": 502
+  },
+  "Discordspfc": {
+    "name": "spfcDiscord",
+    "x": 4298,
+    "y": 1,
+    "width": 160,
+    "height": 34
+  }
+}
