@@ -26,5 +26,12 @@
     "y": -175,
     "width": 130,
     "height": 194
+  },
+  "Flagspfc": {
+    "name": "spfcFlag.png",
+    "x": 3960,
+    "y": 37,
+    "width": 398,
+    "height": 249
   }
 }
