@@ -47,5 +47,12 @@
     "y": -922,
     "width": 111,
     "height": 88
+  },
+  "FronteiraFluspfc": {
+    "name": "spfcFronteiraFlu.png",
+    "x": 1078,
+    "y": -1046,
+    "width": 87,
+    "height": 51
   }
 }
