@@ -2,7 +2,7 @@
 
 
 #### SPFC_Logo
-[![](https://raw.githubusercontent.com/Felipefury/minimapsp/master/images/spfcLogo.png.png)](http://pixelcanvas.io/@4184,-502)
+[![](https://raw.githubusercontent.com/Felipefury/minimapsp/master/images/spfcLogo.png)](http://pixelcanvas.io/@4184,-502)
 
 #### SPFC_Independente
 [![](https://raw.githubusercontent.com/Felipefury/minimapsp/master/images/spfcIndependente.png)](http://pixelcanvas.io/@3589,-514)
