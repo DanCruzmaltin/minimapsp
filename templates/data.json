@@ -61,5 +61,12 @@
     "y": -1240,
     "width": 70,
     "height": 47
+  },
+  "Base2spfc": {
+    "name": "spfcBase2.png",
+    "x": 1078,
+    "y": -1193,
+    "width": 321,
+    "height": 411
   }
 }
