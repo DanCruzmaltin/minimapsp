@@ -68,5 +68,12 @@
     "y": -1193,
     "width": 321,
     "height": 411
+  },
+  "Bordaspfc": {
+    "name": "spfcBorda.png",
+    "x": 3603,
+    "y": -578,
+    "width": 1376,
+    "height": 671
   }
 }
